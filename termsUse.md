@@ -1,7 +1,7 @@
 使用条款 / Terms of Service
 
 ## 1. 接受条款 / Acceptance of Terms
-使用LinkCast即表示您同意这些条款。 / By using LinkCast, you agree to these terms.
+使用OpusCast即表示您同意这些条款。 / By using OpusCast, you agree to these terms.
 
 ## 2. 许可 / License
 - 个人和非商业使用免费 / Free for personal and non-commercial use.
@@ -9,7 +9,7 @@
 - 遵守版权法规 / Comply with copyright regulations.
 
 ## 3. 服务说明 / Service Description
-LinkCast提供DLNA投屏功能： / LinkCast provides DLNA casting features:
+OpusCast提供DLNA投屏功能： / OpusCast provides DLNA casting features:
 - 本地相册媒体投屏 / Local media casting from album.
 - 网络媒体浏览和投屏 / Network media browsing and casting.
 - DLNA设备发现和连接 / DLNA device discovery and connection.
@@ -25,7 +25,7 @@ LinkCast提供DLNA投屏功能： / LinkCast provides DLNA casting features:
 - 网络功能依赖于网络状况 / Network functionality depends on network conditions.
 
 ## 6. 知识产权 / Intellectual Property
-LinkCast及其内容受版权保护。 / LinkCast and its content are protected by copyright.
+OpusCast及其内容受版权保护。 / OpusCast and its content are protected by copyright.
 
 ## 7. 终止 / Termination
 我们保留随时终止或修改服务的权利。 / We reserve the right to terminate or modify the service at any time.
