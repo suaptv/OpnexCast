@@ -1,7 +1,7 @@
 隐私协议 / Privacy Policy
 
 ## 1. 信息收集 / Information Collection
-LinkCast不会收集、存储或共享您的个人信息。 / LinkCast does not collect, store, or share your personal information.
+OpusCast不会收集、存储或共享您的个人信息。 / OpusCast does not collect, store, or share your personal information.
 
 ## 2. 本地存储 / Local Storage
 - 应用偏好设置存储在本地设备 / Application preferences are stored on the local device.
