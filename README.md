@@ -10,7 +10,7 @@ DLNA客户端是一款强大的投屏工具，能够轻松将本地的图片、�
 OpusCast 让媒体共享和播放变得前所未有的简单，提供流畅高效的投屏体验。
 
 # 预览图
-![IMG_0061](docs/IMG_0061.jpg)
+![IMG_0061](docs/IMG_0616.jpg)
 ![IMG_0062](docs/IMG_0062.jpg)
 ![IMG_0063](docs/IMG_0063.jpg)
 ![IMG_0064](docs/IMG_0064.jpg)
