@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # OpnexCast
@@ -7,6 +6,11 @@
 
 集 **涂鸦画板、浏览器、本地相册与视频投屏** 于一身，  
 让内容从屏幕到大屏，始终流畅自然。
+
+<br/>
+
+👉 **App Store 下载**  
+[https://apps.apple.com/app/opnexcast](https://apps.apple.com/app/opnexcast)
 
 <br/>
 
