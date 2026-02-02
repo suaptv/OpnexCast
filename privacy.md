@@ -1,7 +1,7 @@
 隐私协议 / Privacy Policy
 
 ## 1. 信息收集 / Information Collection
-OpusCast不会收集、存储或共享您的个人信息。 / OpusCast does not collect, store, or share your personal information.
+OpnexCast不会收集、存储或共享您的个人信息。 / OpnexCast does not collect, store, or share your personal information.
 
 ## 2. 本地存储 / Local Storage
 - 应用偏好设置存储在本地设备 / Application preferences are stored on the local device.
@@ -20,7 +20,6 @@ OpusCast不会收集、存储或共享您的个人信息。 / OpusCast does not 
 
 ## 5. 数据安全 / Data Security
 - 所有数据保存在您的设备上 / All data is stored on your device.
-- 使用iOS标准加密保护 / Standard iOS encryption is used for protection.
 - 您可以随时删除应用及其数据 / You can delete the app and its data at any time.
 
 ## 6. 更新 / Updates
