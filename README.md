@@ -9,8 +9,7 @@
 
 <br/>
 
-👉 **App Store 下载**  
-[https://apps.apple.com/app/opnexcast](https://apps.apple.com/app/opnexcast)
+
 
 <br/>
 
