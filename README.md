@@ -80,10 +80,10 @@
 
 
 
-# 预览图
-![IMG_0061](docs/IMG_0616.jpg)
-![IMG_0062](docs/IMG_0062.jpg)
-![IMG_0063](docs/IMG_0063.jpg)
-![IMG_0064](docs/IMG_0064.jpg)
-![IMG_0065](docs/IMG_0065.jpg)
-![IMG_0066](docs/IMG_0066.jpg)
+# iPad预览图
+![IMG_0061](docs/11.jpg)
+![IMG_0062](docs/22.jpg)
+![IMG_0063](docs/33.jpg)
+![IMG_0064](docs/44.jpg)
+![IMG_0065](docs/55.jpg)
+![IMG_0066](docs/66.jpg)
