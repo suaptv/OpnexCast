@@ -4,7 +4,6 @@
 使用OpnexCast即表示您同意这些条款。 / By using OpnexCast, you agree to these terms.
 
 ## 2. 许可 / License
-- 个人和非商业使用免费 / Free for personal and non-commercial use.
 - 不得用于非法目的 / Not for illegal purposes.
 - 遵守版权法规 / Comply with copyright regulations.
 
